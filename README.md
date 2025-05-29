@@ -1,368 +1,433 @@
+# 🌟 Awesome NoCode / LowCode
 
-# Awesome NoCode / LowCode
-A curated list of 100+ delightful NoCode / LowCode applications and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
+A curated collection of 100+ **Awesome NoCode and LowCode tools, platforms, and resources** to help creators, developers, and businesses build applications without extensive coding. Explore this list to discover tools that streamline workflows, boost productivity, and bring ideas to life! 🚀
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![example workflow](https://github.com/kairichard/awesome-nocode-lowcode/actions/workflows/validate.yml/badge.svg)
+![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+<a href="https://ko-fi.com/stevemiller5" target="_blank" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-FF813F?style=flat-square&logo=ko-fi&logoColor=white" height="20" />
+</a>
 
-</div>
-<br/>
-
-# Table of Contents
-
-- [Awesome NoCode / LowCode](#awesome-nocode--lowcode)
-- [Table of Contents](#table-of-contents)
-  - [Analytics](#analytics)
-  - [Automation](#automation)
-  - [Business Apps](#business-apps)
-  - [Chatbots](#chatbots)
-  - [Collaboration](#collaboration)
-  - [CRM](#crm)
-  - [Data & Scraping](#data--scraping)
-  - [Database](#database)
-  - [Design](#design)
-  - [Ecommerce](#ecommerce)
-  - [Email](#email)
-  - [Forms](#forms)
-  - [Games](#games)
-  - [Internal](#internal)
-  - [Landing Pages](#landing-pages)
-  - [Machine Learning](#machine-learning)
-  - [Marketing](#marketing)
-  - [Mobile Apps](#mobile-apps)
-  - [Payments](#payments)
-  - [Scrapers](#scrapers)
-  - [Video](#video)
-  - [Visual Programming](#visual-programming)
-  - [Voice](#voice)
-  - [VR](#vr)
-  - [Web Apps](#web-apps)
-  - [Websites](#websites)
-  - [Uncategorized](#uncategorized)
-  - [Tutorials](#tutorials)
-  - [Learning](#learning)
-  - [Blog Posts](#blog-posts)
-- [Contribute](#contribute)
-- [License](#license)
 
 ---
 
-- [Tutorials](#tutorials)
-- [Learning](#learning)
-- [Blog Posts](#blog-posts)
+## 📋 Table of Contents
 
-## Analytics
-
-- [Google Analytics](https://analytics.google.com) - Free website analytics.
-- [VisualSitemaps](https://visualsitemaps.com) - Autogenerate Visual Sitemaps & Screenshots in Seconds
-- [Simple Analytics](https://simpleanalytics.io) - Simple, clean, and friendly analytics.
-- [Posthog](https://posthog.com/) - Open source product analytics.
-
-## Automation
-
-- [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
-- [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
-- [Clay](https://clay.run) - Build tools & workflows to supercharge your team
-- [IFTTT](https://ifttt.com) - Do more with the services you love.
-- [Make (formerly Integromat](https://www.make.com/) - The glue of the internet.
-- [Lil'bots](https://www.lilbots.io) - AI bot marketplace - build, deploy and share AI powered bots, with built in API access to top-tier AI services.
-- [Linx](https://linx.software) - Low-code Development for IT Pros
-- [Microsoft Power Automate](https://flow.microsoft.com) - Previously known as Microsoft Flow, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes.empowering Dynamics 365 line of Products. 
-- [n8n](https://n8n.io) - Free Self-hostable Automation Tool
-- [Nanonets Airtable Models](https://nanonets.com/airtable/) - Build a no-code AI image organizer with Airtable
-- [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
-- [Parabola](https://parabola.io) - Drag-and-drop to automate your repetitive tasks.
-- [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
-- [pipedream](https://pipedream.com/) - The integration platform built for developers
-- [Simple scraper](https://simplescraper.io) - The web is your API
-- [Autocode](https://autocode.com/) -  Turn ideas into software with AI
-- [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
-- [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
-- [Formstack](https://www.webmerge.me/) - Document automation software
-- [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
-- [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
-- [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
-- [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment.
-- [Unito](https://unito.io/) - Bidirectional realtime sync between online apis
-- [Deployment.io](https://deployment.io) - DevOps co-pilot for developers to automate deployments to AWS.
-- [MindStudio](https://mindstudio.ai) - MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations. AI Workers can be triggered from browser extensions, run automatically on a schedule, be used as components in Zapier, Make, or any other orchestration platform, or integrated into any application that can call an API.
-
-## Business Apps
-
-- [AppSheet](https://appsheet.com) - The intelligent no-code app development platform.
-- [Betty Blocks](https://BettyBlocks.com) - No-code - Enterprise Application Development Platform
-- [Budibase](https://budibase.com) - Powerful low-code app builder for creating internal tools in minutes.
-- [Community.lawyer](https://community.lawyer/) - No-code App Builder designed specifically for legal service professionals
-- [DronaHQ](https://dronahq.com) - Build Business Apps Without Coding
-- [Eyelet](https://eyelet.io) - Create interactive guidance for your product without code
-- [Fliplet](https://fliplet.com) - The smart way to create custom apps
-- [Internal](https://internal.io) - Console-as-a-service, better tools for customer-facing teams
-- [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
-- [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
-- [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
-- [Naologic](https://naologic.com) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
-- [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
-- [Nussknacker](https://nussknacker.io) - A visual tool to define and run real-time decision algorithms.
-- [Triggre](https://www.triggre.com/) - Replace outdated software with custom no-code business applications.
-- [Plant An App](https://www.plantanapp.com) - The Secret Weapon of Software Development
-- [Quick Base](https://quickbase.com) - The best way to manage data and automate processes, so you can accomplish more.
-- [Zoho Creator](https://www.zoho.com/creator) - Custom apps to run your business.
-- [Novacura](https://www.novacura.com) - Streamline your processes with mobile and fully-adaptable software solutions. Extend your ERP with ready to use low-code applications or create your own.
-- [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
-
-## Chatbots
-
-- [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python 
-- [Botnation](https://botnation.ai/en/) - Create chatbots, landbots, voicebots, callbots on Messenger, Web, Google Home, Phone device.
-- [Botsify](https://botsify.com) - Create your own automated chatbots online.
-- [Chatamo](https://chatamo.com) - Create intelligent voice and chat bots for marketing, sales and support in minutes.
-- [Chatfuel](https://chatfuel.com) - Create chatbots to engage with your audience on messengers
-- [Flow XO](https://flowxo.com) - Create a chatbot with zero coding skills required
-- [Instabot](https://instabot.io) - A Conversion Chatbot for Your Website
-- [Landbot](https://landbot.io) - Lead generation landing page as chatbot.
-- [Manychat](https://manychat.com) - Create a Messenger bot to engage your audience. No coding!
-- [rulai](https://www.rul.ai) - AI Chatbot to Deliver Scalable Self Service
-- [Smooch](https://smooch.io) - Instantly deploy your bots wherever users are.
-
-## Collaboration
-
-- [Fibery](https://fibery.io) - Instead of trying to make scattered tools work, Build your own workspace
-- [Notion](https://notion.so) - The all-in-one workspace - notes, tasks, wikis, & databases.
-- [Quip](https://quip.com) - One place for all your team’s work.
-
-## CRM
-
-- [Kartra](https://kartra.com) - Online Business Made Easy
-- [Salesflare](https://salesflare.com) - Simple yet powerful CRM for small businesses selling B2B.
-
-## Data & Scraping
-
-- [APIFY](https://apify.com/) - Extract data from any website
-- [DataFlowMapper](https://dataflowmapper.com/) - Data migration and conversion for onboarding
-- [SmartXML](https://redata.dev/smartxml/) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
-- [flatfile](https://flatfile.io/) - The elegant import button for your web app
-- [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
-- [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
-
-## Database
-
-- [Airtable](https://airtable.com) - Database / Spreadsheet mashup
-- [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative
-- [NocoDB](https://github.com/nocodb/nocodb) - Free & Open Source Airtable Alternative - turns any SQL databases into smart spreadsheet.
-- [Forest Admin](https://www.forestadmin.com/) - The admin panel framework
-- [Go](https://www.123Go.io) - Low-Code for Enterprise Databases
-- [Hasura](https://hasura.io/) - Get realtime GraphQL APIs instantly
-- [Metabase](https://www.metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
-- [Motor Admin](https://www.getmotoradmin.com/) - Open-source, self-hosted Admin Panel and Business Intelligence software.
-- [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
-- [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
-- [Tadabase](https://tadabase.io) - No Code Database Web App Builder
-- [Trevor](https://www.trevor.io) - Query your live data, without code.
-- [Draxlr](https://www.draxlr.com) - Build Dashboards, Get Alerts.
-- [Dashbase](https://www.dashbase.ai) - Build collaborative KPI dashboards from your SQL database.
-
-## Design
-
-- [Figma](https://figma.com) - The first interface design tool with real-time collaboration
-- [Penpot](https://penpot.app) - Open source, web-based interface design application.
-- [STUDIO](https://studio.design/) - Design to live website in one click.
-- [unDraw](https://undraw.co) - Free, open-source illustrations for every project.
-
-## Ecommerce
-
-- [Big Cartel](https://www.bigcartel.com) - Easy online stores for artists & makers
-- [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
-- [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
-- [Podia](https://podia.com) - Easily sell memberships, online courses & digital downloads.
-- [Shopify](https://shopify.com) - Build your ecommerce store.
-- [Volusion](https://volusion.com) - Ecommerce Website Store & Shopping Cart Software
-
-## Email
-
-- [BEE](https://beefree.io) - Create beautiful emails, fast.
-- [EDMdesigner](https://edmdesigner.com) - Responsive email design made simple.
-- [Mailchimp](https://www.mailchimp.com) - Email marketing & automation
-- [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity.
-- [Sendgrid](https://sendgrid.com) - Email delivery service.
-- [Stripo](https://stripo.email) - Free email template builder.
-- [Substack](https://substack.com/) - Paid newsletters made simple
-- [Topol](https://topol.io) - Beautiful HTML e-mails easily
-
-## Forms
-
-- [ActiveCalculator](https://activecalculator.com) - Create custom calculators for your website with no-code builder.
-- [Convertigo](https://www.convertigo.com/) - Create Forms based applications with no coding.
-- [Feathery](https://feathery.io) - Powerful form builder for product teams
-- [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
-- [Formester](https://formester.com) - Form that blends with your brand theme
-- [Google Forms](https://forms.google.com) - Free forms from Google, that connect directly to Google Sheets.
-- [HeyForm](https://heyform.net) - Create captivating online forms without coding knowledge
-- [InteractiveCalculator](https://www.interactivecalculator.com) - Make calculators with no code and add them on your site
-- [Involve.Me](https://www.involve.me) - Build customizable widgets like quizzes, forms & calculators
-- [Jotform](https://jotform.com) - Online Form Builder & Form Creator.
-- [Paperform](https://paperform.co) - Beautiful Forms That Feel Like Yours
-- [Typeform](https://www.typeform.com) - Create forms and surveys that people enjoy answering
-- [Tally](https://tally.so) - The simplest way to create forms that works like a doc
-- [FormNX](https://formnx.com) - Create Powerful Forms That Converts Without Coding. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
-
-## Games
-
-- [Canvascript](https://github.com/VBproDev/Canvascript) - An open source tool for creating HTML canvas graphics without writing code.
-- [Construct](https://www.construct.net) - Game making software
-- [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
-- [GDevelop](https://gdevelop.io/) - Open source game making software
-
-## Internal
-
-- [Contractbook](https://contractbook.co) - Efficient Contract Management
-- [ILLA Cloud](https://www.illacloud.com/) - A low-code platform for developers to build internal tools in minutes.
-- [Nuclino](https://nuclino.com) - Part knowledge base, part collaboration space 🧠
-- [Retool](https://tryretool.com) - Build custom internal tools in minutes.
-- [Stream Language](https://bitspark.de/slang) - Taking the next step in programming
-- [Outcode](https://outcode.biz/) - Create data apps without code
-- [UI Bakery](https://uibakery.io) - Custom web applications at speed 🍩
-
-## Landing Pages
-
-- [EarlyBird](https://earlybird.im) - Create landing pages to validate early-stage business ideas.
-- [Instapage](https://instapage.com) - Landing pages, up to 6x more conversions.
-- [Launchaco](https://launchaco.com) - Simple landing pages for your startup
-- [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
-- [PageXL](https://pagexl.com) - One-page website and store builder
-- [Unbounce](https://unbounce.com) - Landing Pages - More Powerful Customization
-- [Destack](https://github.com/liveduo/destack) - Visual page builder for developers
-
-## Machine Learning
-
-- [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
-- [Mazaal AI](https://mazaal.ai) - No-code AI workflow platform connected with most popular 200 apps that you use daily.
-
-## Marketing
-
-- [Fomo](https://fomo.com) - Social Proof Marketing Platform
-- [FORTVISION](https://fortvision.com/) - Create interactive experiences that lead to higher conversions.
-- [Hotjar](https://hotjar.com) - See how your visitors are really using your site.
-- [Hubspot](https://hubspot.com) - A full platform of marketing, sales, customer service, and CRM software.
-- [Rewardful](https://www.getrewardful.com) - Instant Affiliate & Referral Programs for Stripe
-- [Screenzy](https://screenzy.io) - Screenshot beautifier
-- [Ship](https://producthunt.com/ship) - A toolkit to ship awesome products, by Product Hunt
-- [TinySnap](https://tinysnap.app) - A browser extension to capture screen and beautify screenshots
-
-## Mobile Apps
-
-- [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
-- [AppOnboard Studio](https://apponboard.com/) - Where app ideas come to life. No code required.
-- [Appspotr](https://appspotr.com) - Create epic apps without coding
-- [Appstylo](https://appstylo.com) - Mobile App builder maker
-- [Bravo Studio](https://www.bravostudio.app/) - Where your designs become real native apps
-- [Convertigo](https://www.convertigo.com/) - Create Mobile Apps & PWAs for iOS & Android with no coding
-- [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
-- [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
-- [Thunkable](https://thunkable.com) - The No-Code App Builder
-- [Utilize](https://www.utilize.app) - Apps from Google Sheets, in minutes. 
-- [NotionApps](https://www.notionapps.com) - Builder powerful apps from Notion databases. Share limited views or private apps.
-
-## Payments
-
-- [Fiverr Workspace](https://workspace.fiverr.com) - Invoicing, Proposals & Expense Tracking
-- [Paypal](https://www.paypal.com) - Send Money, Pay Online or Set Up a Merchant Account
-- [Trolley](https://trolley.link) - Get paid with no code
-
-## Scrapers
-
-- [Octoparse](https://octoparse.com) - Easy Web Scraping for Anyone
-- [Parsehub](https://parsehub.com) - Free web scraping.
-
-## Video
-
-- [Loom](https://loom.com) - Seamless screen, mic, and camera recording for Chrome
-
-## Visual Programming
-
-- [Darklang](https://darklang.com/) - Build an entire backend in just hours.
-- [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
-- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
-
-## Voice
-
-- [Vuix](https://vuix.io) - Design voice apps in minutes.
-
-## VR
-
-- [Instavr](https://www.instavr.co) - Make your VR apps in minutes
-
-## Web Apps
-
-- [Adalo](https://www.adalo.com) - Create an app without code.
-- [Bubble](https://bubble.io/) - Build production-ready web apps.
-- [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
-- [Convertigo](https://www.convertigo.com/) - Create Web Applications with low code and no code
-- [Corvid](https://wix.com/corvid) - Build advanced web applications, hassle-free.
-- [OnOut](https://tools.onout.org/) - Build Blockchain DApps on your own domain in one-click.
-- [SpreadsheetWeb](https://www.spreadsheetweb.com) - A NoCode platform for Excel users
-- [Stacker](https://stacker.app) - Build web apps in your browser, without code.
-- [Widgetic](https://widgetic.com) - A marketplace for website building blocks.
-
-## Websites
-
-- [appsmith_](https://www.appsmith.com/) - Frontend as a Service to build internal apps
-- [Bloggi](https://bloggi.co) - A simple blogging platform
-- [Bookmark](https://www.bookmark.com) - Create a Website with AI
-- [Grapedrop](https://grapedrop.com) - Free and custom websites and landing pages
-- [IM Creator](https://www.imcreator.com) - Free Website Builder
-- [Jimdo](https://www.jimdo.com) - Your Website Builder
-- [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website
-- [Memberspace](https://www.memberspace.com) - Turn your audience into paying members.
-- [Sheet2Site](https://sheet2site.com) - Turn your 📗 Google Sheets into 🎨 professional websites
-- [Squarespace](squarespace.com) - All-in-one platform to build a beautiful online presence.
-- [Strikingly](https://www.strikingly.com) - Make a website in minutes
-- [Tilda](https://tilda.cc) - Create beautiful websites without any code.
-- [Udesly](https://www.udesly.com) - Use Webflow to create WordPress and Shopify Themes
-- [Universe](https://onuniverse.com) - Make an awesome website from your phone.
-- [Versoly](https://versoly.com/) - The Easiest Way to Build Your SaaS Website
-- [Webflow](https://webflow.com/) - Break the code barrier, Build better business websites, faster. Without coding.
-- [Webstudio](https://webstudio.is/) - An Open Source alternative to Webflow. Much faster. No platform lock-in.
-- [Webnode](https://www.webnode.com) - Easy & Free Website Maker
-- [Weebly](https://www.weebly.com) - Build a Free Website or Online Store
-- [Weld](https://www.weld.io) - Be creative without code – Interactive content tool
-- [Without Code](https://www.wocode.com) - Code Free Website Builder
-- [Wix](https://www.wix.com) - Free Website Builder
-
-## Uncategorized
-
-- [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
-- [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software 
-- [Pineify](https://pineify.app) - Best TradingView Pine Script Code Generator
+- [Analytics 📊](#analytics)  
+- [Automation ⚙️](#automation)  
+- [Business Apps 💼](#business-apps)  
+- [Chatbots 🤖](#chatbots)  
+- [Collaboration 🤝](#collaboration)  
+- [CRM 📋](#crm)  
+- [Database 🗄️](#database)  
+- [Design 🎨](#design)  
+- [Ecommerce 🛒](#ecommerce)  
+- [Email ✉️](#email)  
+- [Forms 📝](#forms)  
+- [Games 🎮](#games)  
+- [Internal Tools 🛠️](#internal-tools)  
+- [Landing Pages 🌐](#landing-pages)  
+- [Machine Learning 🧠](#machine-learning)  
+- [Marketing 📣](#marketing)  
+- [Mobile Apps 📱](#mobile-apps)  
+- [Payments 💳](#payments)  
+- [Scrapers 🔍](#scrapers)  
+- [Video 📹](#video)  
+- [Visual Programming 🖼️](#visual-programming)  
+- [Voice 🎙️](#voice)  
+- [VR 🥽](#vr)  
+- [Web Apps 🧰](#web-apps)  
+- [Websites 🖥️](#websites)  
+- [Uncategorized 📌](#uncategorized)  
+- [Tutorials 📚](#tutorials)  
+- [Books 📖](#books)  
+- [Learning 🧑‍🎓](#learning)  
+- [Blog Posts 📰](#blog-posts)  
+- [Contribute 🤗](#contribute)  
+- [License ⚖️](#license)
 
 ---
 
-## Tutorials
+## <h2 id="why-no-code">🌟 Why NoCode/LowCode?</h2>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3588/3588435.png" width="80" alt="Speed"><br>
+      <strong>⚡ 10x Faster Development</strong><br>
+      Launch in days
+    </td>
+    <td width="33%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/1830/1830839.png" width="80" alt="Cost"><br>
+      <strong>💰 90% Cost Reduction</strong><br>
+      No need for expensive dev teams
+    </td>
+    <td width="33%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3145/3145765.png" width="80" alt="Accessible"><br>
+      <strong>🎨 Everyone Can Build</strong><br>
+      Turn ideas into reality without coding
+    </td>
+  </tr>
+</table>
 
-- https://codeornocode.com/tutorial/how-to-build-a-low-code-platform/
+## <h2 id="analytics">Analytics 📊</h2>
 
-## Books
+- [Google Analytics](https://analytics.google.com) – Free website analytics tool from Google for traffic and user behaviour tracking.
+- [Microsoft Clarity](https://clarity.microsoft.com) – Free heatmaps, session recordings, and user insights with no sampling.
+- [PostHog](https://posthog.com/) – Open-source product analytics platform with event tracking, session replay, and feature flags.
+- [Mixpanel](https://mixpanel.com) – Advanced product analytics for tracking user engagement and retention.
+- [Simple Analytics](https://simpleanalytics.io) – Privacy-first analytics that’s clean, fast, and cookie-free.
+- [Plausible](https://plausible.io) – Lightweight, GDPR-compliant website analytics with a simple interface.
+- [Fathom](https://usefathom.com) – Privacy-focused, cookie-less analytics that’s easy to set up and use.
+- [Matomo](https://matomo.org) – Self-hosted Google Analytics alternative with full data ownership.
+- [VisualSitemaps](https://visualsitemaps.com) – Automatically generate visual sitemaps and page screenshots for SEO and UX audits.
 
-- [Low-code handbook](https://lowcode-book.com/)
-  
+## <h2 id="automation">Automation ⚙️</h2>
+
+- [Zapier](https://zapier.com) – Automate workflows by connecting 6,000+ apps with triggers and actions.
+- [Make (formerly Integromat)](https://www.make.com) – Visual automation platform for building powerful workflows.
+- [Activepieces](https://www.activepieces.com) – Open-source alternative to Zapier for no-code business automation.
+- [Parabola](https://parabola.io) – Automate repetitive operations with a spreadsheet-style visual builder.
+- [IFTTT](https://ifttt.com) – Simple automation for smart homes, devices, and personal apps.
+- [Unito](https://unito.io) – Real-time 2-way sync between project management and CRM tools.
+- [Outfunnel](https://outfunnel.com) – Sync and automate sales + marketing workflows between CRMs and email tools.
+- [Formstack](https://www.webmerge.me/) – Automate document generation from form submissions and data sources.
+- [n8n](https://n8n.io) – Open-source, self-hosted workflow automation tool for custom logic.
+- [Pipedream](https://pipedream.com/) – Code-friendly automation for integrating APIs and running background jobs.
+- [Linx](https://linx.software) – Low-code platform for backend logic, integrations, and APIs.
+- [Tray](https://tray.io) – Powerful automation and data integration platform for enterprise workflows.
+- [Deployment.io](https://deployment.io) – Automate AWS deployments and DevOps tasks easily.
+- [YepCode](https://yepcode.io) – Serverless platform for automating API workflows with JavaScript or Python.
+- [Diagram](https://www.ondiagram.com/) – Visual API builder for NoSQL backends like Firestore and MongoDB.
+- [Autocode](https://autocode.com/) – Instantly build and host serverless API endpoints using code or AI prompts.
+- [Clay](https://clay.run/) – AI workflows and enrichment engine to automate data across your tools.
+- [MindStudio](https://mindstudio.ai) – Build and operate AI Workers for custom workflows without code.
+- [Lil’bots](https://www.lilbots.io/) – Build, train, and deploy custom AI bots using a no-code interface.
+- [Nanonets Airtable Models](https://nanonets.com/airtable/) – Automate image recognition and tagging inside Airtable.
+- [Phantombuster](https://phantombuster.com/) – No-code scrapers and bots for social media, lead gen, and automation.
+- [Simple Scraper](https://simplescraper.io) – Turn websites into structured APIs without coding.
+- [ActionDesk](https://actiondesk.io) – Run live database queries inside a spreadsheet interface.
+
+## <h2 id="business-apps">Business Apps 💼</h2>
+
+- [AppSheet](https://appsheet.com) – No-code platform by Google to build mobile and web apps using spreadsheets and logic.
+- [Zoho Creator](https://www.zoho.com/creator) – Build custom business apps with data management, workflows, and automation.
+- [Betty Blocks](https://BettyBlocks.com) – Enterprise-grade no-code platform for building scalable internal and external apps.
+- [Quick Base](https://quickbase.com) – Low-code platform to automate workflows, manage data, and build business tools.
+- [DronaHQ](https://dronahq.com) – Build enterprise dashboards, internal tools, and admin panels without code.
+- [Budibase](https://budibase.com) – Open-source low-code platform to build internal business tools fast.
+- [Internal](https://internal.io) – Console-as-a-service for building secure internal apps on top of your data.
+- [Lowdefy](https://lowdefy.com) – Open-source framework to create low-code apps powered by YAML and backend integrations.
+- [Fliplet](https://fliplet.com) – Drag-and-drop builder to create custom mobile and web apps for businesses.
+- [Triggre](https://www.triggre.com/) – Automate business processes by building custom web apps without developers.
+- [Plant an App](https://www.plantanapp.com) – Low-code platform focused on enterprise-grade application development.
+- [MintData](https://mintdata.com/) – Build business apps using spreadsheet-style logic and no-code workflows.
+- [Community.lawyer](https://community.lawyer/) – Build legal apps and workflows without code, tailored for law firms.
+- [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) – Microsoft’s no-code solution to automate workflows across cloud and on-premise systems.
+- [Naologic](https://naologic.com) – Modular, no-code business suite to replace and connect internal tools.
+- [Ninox](https://ninoxdb.de) – Mac-first business app builder with templates for CRM, inventory, and projects.
+- [Novacura](https://www.novacura.com/) – Extend and customize ERP workflows with low-code apps.
+- [Nussknacker](https://nussknacker.io) – Visual platform for real-time decision logic and event stream processing.
+- [Eyelet](https://eyelet.io) – Create in-app product tours, tooltips, and onboarding experiences without coding.
+- [Loopple](https://www.loopple.com/) – Drag-and-drop dashboard and admin UI builder for internal apps.
+
+## <h2 id="chatbots">Chatbots 🤖</h2>
+
+- [Intercom](https://www.intercom.com) – Customer service platform with built-in chatbot and live chat support.
+- [YourGPT](https://yourgpt.ai) – AI-first platform to build no-code chatbots for support, sales, and automation.
+- [Ada](https://www.ada.cx) – No-code AI chatbot platform built for CX automation at scale.
+- [Kore.ai](https://www.kore.ai) – Enterprise-grade conversational AI for intelligent virtual assistants.
+- [Drift](https://www.drift.com) – Conversational marketing and sales chatbot tool for lead qualification.
+- [Chatfuel](https://chatfuel.com) – Messenger and Instagram-focused chatbot builder with visual workflows.
+- [Manychat](https://manychat.com) – Chatbots for Messenger, Instagram, and WhatsApp with automation flows.
+- [Landbot](https://landbot.io) – Drag-and-drop chatbot builder for websites, forms, and WhatsApp.
+- [Tidio](https://www.tidio.com) – AI chatbot and live chat software for small businesses and ecommerce.
+
+## <h2 id="collaboration">Collaboration 🤝</h2>
+
+- [Notion](https://notion.so) – All-in-one workspace for docs, wikis, tasks, and databases.
+- [ClickUp](https://clickup.com) – Project management hub with tasks, docs, goals, and dashboards.
+- [Coda](https://coda.io) – Flexible docs combining tables, automation, and apps.
+- [Fibery](https://fibery.io) – Custom collaborative workspaces to fit unique workflows.
+- [Slite](https://slite.com) – Async-first documentation and knowledge base.
+- [Obsidian](https://obsidian.md) – Local-first, markdown-based knowledge tool with plugin support.
+- [Almanac](https://almanac.io) – Version-controlled docs and workflows built for async collaboration.
+- [Quip](https://quip.com) – Collaborative docs, spreadsheets, and team chat by Salesforce.
+
+## <h2 id="crm">CRM 📋</h2>
+
+- [Salesflare](https://salesflare.com) – Easy-to-use CRM for B2B startups and small teams with minimal manual input.
+- [HubSpot](https://hubspot.com) – Powerful and free CRM for sales, marketing, and customer support.
+- [Pipedrive](https://pipedrive.com) – Sales-focused CRM with visual pipelines and automations.
+- [Zoho CRM](https://www.zoho.com/crm/) – Feature-rich CRM with custom modules, workflows, and integrations.
+- [Kartra](https://kartra.com) – All-in-one platform combining CRM, marketing automation, and checkout.
+- [Monday Sales CRM](https://monday.com/crm) – Visual, customizable CRM built into Monday’s work OS.
+- [Folk](https://folk.app) – Lightweight modern CRM for personal networks and freelancers.
+- [Bonsai CRM](https://www.hellobonsai.com/crm) – Freelance-first CRM with contracts, invoices, and client tracking.
+
+## <h2 id="database">Database 🗄️</h2>
+
+- [Airtable](https://airtable.com) – No-code spreadsheet-database hybrid for teams and workflows.
+- [Tadabase](https://tadabase.io) – Build powerful internal apps on a no-code database builder.
+- [Baserow](https://baserow.io/) – Open-source Airtable alternative with team collaboration.
+- [NocoDB](https://github.com/nocodb/nocodb) – Turn any SQL database into a smart no-code interface.
+- [Forest Admin](https://forestadmin.com) – Admin panel as a service for your database.
+- [Motor Admin](https://www.getmotoradmin.com/) – Self-hosted internal tool builder for SQL databases.
+- [Trevor](https://www.trevor.io/) – Ask live questions from your data without SQL.
+- [Metabase](https://www.metabase.com/) – Open-source BI tool to query, visualize, and share insights.
+- [Draxlr](https://www.draxlr.com/) – Create dashboards, automate SQL reports, and set alerts.
+- [Hasura](https://hasura.io/) – Instant GraphQL APIs on PostgreSQL with real-time subscriptions.
+- [PostGraphile](https://www.graphile.org/) – High-performance GraphQL server for PostgreSQL.
+
+## <h2 id="design">Design 🎨</h2>
+
+- [Figma](https://figma.com) – Collaborative design tool for UI/UX, prototyping, and systems.
+- [Penpot](https://penpot.app) – Open-source design and prototyping platform.
+- [Framer](https://framer.com) – Design and ship websites visually with interactions.
+- [STUDIO](https://studio.design/) – No-code design tool that turns mockups into live sites.
+- [unDraw](https://undraw.co) – Open-source SVG illustrations with consistent styles.
+- [IconScout](https://iconscout.com) – Library of icons, illustrations, and 3D assets.
+- [Haikei](https://haikei.app) – Generate unique, customizable SVG shapes and gradients.
+- [LottieFiles](https://lottiefiles.com) – Discover and use lightweight animations.
+
+## <h2 id="ecommerce">Ecommerce 🛒</h2>
+
+- [Shopify](https://shopify.com) – Industry-leading ecommerce platform with powerful customization.
+- [Gumroad](https://gumroad.com) – Sell digital products, memberships, or downloads.
+- [Podia](https://podia.com) – Sell courses, memberships, webinars, and downloads.
+- [Big Cartel](https://www.bigcartel.com/) – Easy storefront setup for creative brands.
+- [Sellfy](https://sellfy.com) – All-in-one platform for creators selling digital or physical products.
+- [Payhip](https://payhip.com) – Simple checkout and storefront with VAT support.
+- [Monto](https://monto.io) – Add subscriptions, reviews, and ecommerce features to Webflow and Foxy stores.
+
+## <h2 id="email">Email ✉️</h2>
+
+- [Mailchimp](https://mailchimp.com) – Email marketing and automation for businesses of all sizes.
+- [Sendgrid](https://sendgrid.com) – Reliable API-based email delivery for transactional and bulk emails.
+- [Substack](https://substack.com/) – Write and monetize newsletters with built-in payments.
+- [Stripo](https://stripo.email) – Drag-and-drop + HTML email builder with templates.
+- [BEE](https://beefree.io) – Create beautiful, responsive emails with easy export.
+- [Postcards](https://designmodo.com/postcards) – Modular, drag-and-drop email builder for marketers.
+- [Topol](https://topol.io) – HTML email builder with template gallery and collaboration.
+- [EDMdesigner](https://edmdesigner.com/) – Responsive email editor for clean HTML designs.
+
+## <h2 id="forms">Forms 📝</h2>
+
+- [Tally](https://tally.so) – Notion-style form builder with powerful features and unlimited responses.
+- [Typeform](https://typeform.com) – Beautiful, conversational forms and surveys.
+- [Paperform](https://paperform.co) – Highly customizable forms that feel like landing pages.
+- [Jotform](https://jotform.com) – Feature-rich form builder with templates and payment integrations.
+- [Feathery](https://feathery.io) – Developer-friendly form builder with complex logic.
+- [Formester](https://formester.com/) – Branded form builder with templates and automation.
+- [HeyForm](https://heyform.net/) – Drag-and-drop form creation with modern UI.
+- [Involve.Me](https://involve.me/) – Build interactive quizzes, forms, and surveys.
+- [Google Forms](https://forms.google.com) – Free, fast forms integrated with Google Sheets.
+- [FormNX](https://formnx.com/) – Build powerful forms with workflows and third-party integrations.
+- [FlexyForm](https://flexyform.com/) – Backend form service for handling submissions via API.
+- [Convertigo](https://www.convertigo.com/) – Low-code platform for enterprise form-based apps.
+
+## <h2 id="games">Games 🎮</h2>
+
+- [Canvascript](https://github.com/VBproDev/Canvascript) – Create HTML canvas graphics without coding.
+- [Construct](https://www.construct.net/) – Game-making software for all skill levels.
+- [YoYo Games](https://www.yoyogames.com/) – Take your game idea from concept to completion.
+- [GDevelop](https://gdevelop.io/) – Open-source game development platform.
+
+## <h2 id="internal-tools">Internal Tools 🛠️</h2>
+
+- [Contractbook](https://contractbook.co) – Efficient contract management solution.
+- [ILLA Cloud](https://www.illacloud.com/) – Build internal tools in minutes.
+- [Nuclino](https://nuclino.com/) – Knowledge base and collaboration space.
+- [Retool](https://tryretool.com/) – Build custom internal tools quickly.
+- [Stream Language](https://bitspark.de/slang) – Next-generation programming for internal tools.
+- [Outcode](https://outcode.biz/) – Create data apps without code.
+- [UI Bakery](https://uibakery.io/) – Build custom web applications rapidly.
+
+## <h2 id="landing-pages">Landing Pages 🌐</h2>
+
+- [Unbounce](https://unbounce.com) – Custom landing pages with A/B testing and smart traffic.
+- [Instapage](https://instapage.com) – Premium landing page platform for PPC and lead-gen.
+- [Leadpages](https://leadpages.net) – Create high-converting landing pages and popups.
+- [Dorik](https://dorik.com) – No-code builder with CMS, blogging, and modern templates.
+- [Typedream](https://typedream.com) – Notion-style builder with modern components.
+- [Softr](https://softr.io) – Data-driven landing pages with Airtable.
+- [Folio](https://folio.co) – Designer-grade portfolio and product showcase pages.
+- [Landingi](https://landingi.com) – Marketing-focused landing page builder with integrations.
+- [Mailchimp Websites & Commerce](https://mailchimp.com/website/) – Basic landing pages with email capture and CRM.
+
+
+## <h2 id="machine-learning">Machine Learning 🧠</h2>
+
+-  [Liner.ai](https://liner.ai/) – Train deep learning models visually, deploy them in one click—ideal for computer vision and NLP.
+- [CreateML (Apple)](https://developer.apple.com/machine-learning/create-ml/) – Build ML models on macOS with a simple UI. Ideal for iOS devs.
+- [Teachable Machine](https://teachablemachine.withgoogle.com/) – Google’s tool for creating image, sound, and pose models directly in the browser.
+-  [Akkio](https://www.akkio.com/) – Fast, no-code AI for marketing, sales, and operations teams to build predictive models.
+-  [MonkeyLearn](https://monkeylearn.com/) – No-code NLP toolkit for text classification, sentiment analysis, and keyword extraction.
+- [IBM Watson Studio AutoAI](https://www.ibm.com/cloud/watson-studio) – Enterprise ML builder with automation and no-code model pipelines.
+
+
+## <h2 id="marketing">Marketing 📣</h2>
+
+- [Canva](https://canva.com) – Design stunning social posts, ads, and banners.
+- [HubSpot](https://hubspot.com) – All-in-one marketing automation and CRM.
+- [Fomo](https://fomo.com) – Show real-time customer activity for social proof.
+- [Rewardful](https://getrewardful.com) – Affiliate programs for Stripe-powered businesses.
+- [Hotjar](https://hotjar.com) – Heatmaps, recordings, and feedback for user insights.
+- [Ship](https://producthunt.com/ship) – Product launch toolkit with landing pages and email capture.
+- [FORTVISION](https://fortvision.com/) – Interactive marketing experiences like quizzes and carousels.
+
+## <h2 id="mobile-apps">Mobile Apps 📱</h2>
+
+- [Adalo](https://adalo.com) – Build mobile apps without coding.
+- [AppOnboard Studio](https://apponboard.com/) – Turn app ideas into reality.
+- [Appspotr](https://appspotr.com/) – Create epic apps without coding.
+- [Appstylo](https://appstylo.com/) – Mobile app builder for all.
+- [Bravo Studio](https://bravostudio.app/) – Turn designs into native apps.
+- [Convertigo](https://convertigo.com/) – Build mobile apps and PWAs without code.
+- [Draftbit](https://draftbit.com/) – Create and customize mobile apps with source code.
+- [miniAppMaker](https://miniappmaker.com/) – Build mobile apps using Airtable.
+- [Thunkable](https://thunkable.com/) – Cross-platform app builder with blocks.
+- [Utilize](https://utilize.app/) – Create apps from Google Sheets in minutes.
+- [NotionApps](https://notionapps.com/) – Build apps from Notion databases.
+
+## <h2 id="payments">Payments 💳</h2>
+
+- [Stripe](https://stripe.com) – Payment infrastructure for online businesses.
+- [PayPal](https://paypal.com) – Sending and receiving payments globally.
+- [Gumroad](https://gumroad.com) – Sell digital products and memberships.
+- [Lemon Squeezy](https://lemonsqueezy.com/) – Sell digital products with built-in compliance.
+- [Paddle](https://paddle.com) – SaaS billing and subscription management.
+- [Trolley](https://trolley.link) – Automate global payouts and freelancer payments.
+- [Fiverr Workspace](https://workspace.fiverr.com/) – Invoices, proposals, and client payments.
+- [Paystack](https://paystack.com/) – Payment solution for Africa-based businesses.
+- [Ko-fi](https://ko-fi.com/) – Accept donations, sell products, or offer memberships.
+
+## <h2 id="scrapers">Scrapers 🔍</h2>
+
+- [Octoparse](https://octoparse.com) – No-code web scraping with scheduling and cloud extraction.
+- [ParseHub](https://parsehub.com/) – Desktop scraper for dynamic sites and AJAX.
+- [Apify](https://apify.com/) – Web scraping and automation with pre-built actors.
+- [Browse AI](https://browse.ai/) – Train bots to monitor and extract data in minutes.
+- [Webscraper.io](https://webscraper.io/) – Chrome extension for creating sitemaps and scraping structured data.
+- [ScrapingBee](https://scrapingbee.com/) – Scraping API handling headless browsers and proxies.
+- [Databar.ai](https://databar.ai/) – Schedule scraping workflows using a spreadsheet interface.
+
+## <h2 id="video">Video 📹</h2>
+
+- [Loom](https://loom.com) – Record screen, camera, and mic for explainer videos.
+- [Pictory](https://pictory.ai) – Turn scripts or posts into short AI-generated videos.
+- [Synthesia](https://synthesia.io) – AI video avatars speaking your script.
+- [Descript](https://descript.com) – Edit video/audio by editing text.
+- [Runway](https://runwayml.com) – AI video editing suite for automated content.
+- [Veed](https://veed.io) – Collaborative video editor with templates and subtitles.
+- [Kapwing](https://kapwing.com) – All-in-one video editor for social content.
+- [InVideo](https://invideo.io) – Turn text into professional videos with templates.
+
+## <h2 id="visual-programming">Visual Programming 🖼️</h2>
+
+- [REPLIT](https://rpelit.dev)](https://replit.com/) – AI programming tool for building and deploying web apps using prompts.
+- [Darklang](https://darklang.com/) – Build entire backends in hours.
+- [GraphQL Editor](https://graphqleditor.com/) – A better way to work with GraphQL.
+- [Node-RED](https://nodered.org/) – Low-code event-driven programming.
+
+## <h2 id="voice">Voice 🎙️</h2>
+
+- [ElevenLabs](https://elevenlabs.io) – High-quality AI voice cloning and TTS.
+- [PlayHT](https://play.ht) – Realistic voice synthesis for podcasts and narration.
+- [Resemble AI](https://resemble.ai) – Custom AI voices with real-time APIs.
+- [WellSaid Labs](https://wellsaidlabs.com) – Professional voiceover tool.
+- [Voicemod](https://voicemod.net) – Real-time voice changer for streamers and creators.
+- [Descript Overdub](https://descript.com/overdub) – AI voice cloning as part of Descript.
+- [Replica Studios](https://replicastudios.com/) – AI voice actors for gaming and films.
+- [LOVO](https://lovo.ai/) – Voiceover and AI narration for eLearning and ads.
+
+## <h2 id="vr">VR 🥽</h2>
+
+- [InstaVR](https://instavr.co) – No-code VR experiences for Oculus, web, and mobile.
+- [CoSpaces Edu](https://cospaces.io) – Interactive VR environments with Blockly.
+- [ShapesXR](https://shapesxr.com/) – Collaborative VR prototyping for Meta Quest.
+
+## <h2 id="web-apps">Web Apps 🧰</h2>
+
+- [Bubble](https://bubble.io/) – Build full-featured web apps visually.
+- [Stacker](https://stacker.app/) – Turn Airtable/Sheets into functional apps.
+- [Convertigo](https://convertigo.com/) – Enterprise low-code app development.
+- [OnOut](https://tools.onout.org/) – One-click builder for DApps.
+- [SpreadsheetWeb](https://spreadsheetweb.com/) – Convert Excel into web applications.
+- [WeWeb](https://weweb.io/) – Frontend builder with visual logic.
+- [Glide](https://glideapps.com/) – Build apps from Sheets or Airtable.
+- [Softr](https://softr.io/) – Client portals and internal tools from Airtable.
+- [Thunkable](https://thunkable.com/) – Cross-platform app builder with blocks.
+
+## <h2 id="websites">Websites 🖥️</h2>
+
+- [Webflow](https://webflow.com/) – Advanced visual web builder with CMS.
+- [Framer](https://framer.com/) – Design-first website builder with smooth animations.
+- [Appsmith](https://appsmith.com/) – Build admin panels and internal tools fast.
+- [Pory](https://pory.io/) – Turn Airtable data into portals and web apps.
+- [Tilda](https://tilda.cc/) – Design-forward websites with no code.
+- [Wix](https://wix.com/) – All-in-one website builder with ecommerce and SEO.
+- [Squarespace](https://squarespace.com/) – Elegant templates for creatives.
+- [Weebly](https://weebly.com/) – Simple builder for basic sites and stores.
+- [Versoly](https://versoly.com/) – SaaS marketing sites with templates.
+- [Strikingly](https://strikingly.com/) – Launch single-page sites quickly.
+- [Udesly](https://udesly.com/) – Convert Webflow designs to WordPress and Shopify.
+- [Bookmark](https://bookmark.com/) – AI-powered website builder.
+- [Memberspace](https://memberspace.com/) – Add memberships and paywalls.
+- [Webstudio](https://webstudio.is/) – Open-source alternative to Webflow.
+- [Sheet2Site](https://sheet2site.com/) – Dynamic sites from Google Sheets.
+- [Grapedrop](https://grapedrop.com/) – Visual landing page builder.
+- [Universe](https://onuniverse.com/) – Build mobile-first sites from your phone.
+- [Without Code](https://wocode.com/) – Website builder for marketers.
+- [Weld](https://weld.io/) – Create animated web content without coding.
+
+## <h2 id="uncategorized">Uncategorized 📌</h2>
+
+- [ApexOracle](https://apex.oracle.com/en) – Build enterprise apps faster with less code.
+
+---
 
 ## Learning
 
--
+- [Low-code handbook](https://lowcode-book.com/) – Comprehensive guide to low-code development.
+- [No-Code Fundamentals (free course)](https://www.nocode.tech/no-code-fundamentals) – Introductory course for getting started with no-code tools.
+- [Makerpad University](https://www.makerpad.co/university) – Video courses and tutorials on no-code building.
+- [FreeCodeCamp: No-Code Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88) – YouTube playlist of no-code tutorials.
+- [Adalo's No-Code App Academy](https://www.adalo.com/academy) – Learn to build mobile apps with no code.
+- [Nocode.tech Guides](https://www.nocode.tech/guides) – Practical guides on building without code.
+
+## Resources
+
+- [Makerpad](https://www.makerpad.co/) – No-code education, community, and tools.
+- [Nocodelist](https://www.nocodelist.co/) – Directory of no-code tools and resources.
+- [No Code Founders](https://www.nocodefounders.com/) – Community for no-code builders.
+- [Indie Hackers – No-Code](https://www.indiehackers.com/no-code) – Forum for sharing and discovering no-code projects.
+- [Product Hunt: No-Code Tools](https://www.producthunt.com/topics/no-code) – Trending no-code products.
+- [NoCode Essentials](https://nocodeessentials.com/) – Hand-picked collection of no-code tools.
+- [Zeroqode Lab](https://lab.zeroqode.com/) – Tutorials, templates, and resources for no-code app building.
+- [NoCodeDevs](https://www.nocodedevs.com/) – No-code news, jobs, and resources.
+- [NoCode Journal](https://www.nocodejournal.com/) – News and inspiration for the no-code community.
+- [NoCode.Tech Tools Directory](https://www.nocode.tech/tools) – Extensive listing of no-code tools.
 
 ## Blog Posts
 
-- http://hasura-forest-admin.surge.sh/
-- https://zapier.com/help/create/code-webhooks/use-javascript-code-in-zaps
+- [What is Retrieval Augmented Generation (RAG)](https://yourgpt.ai/blog/general/retrieval-augmented-generation-rag-chatbots-the-future-of-customer-support-solutions-with-yourgpt-chatbot)
+- [No-Code Revolution is Here](https://www.nocode.tech/blog/the-no-code-revolution-is-here)
+- [What can you Build with No-Code?](https://www.makerpad.co/blog/what-can-you-build-with-no-code)
+- [The Future of No-Code: 2025 and Beyond](https://www.nocodejournal.com/p/the-future-of-no-code)
+- [10 No-Code Tools Every Entrepreneur Should Know](https://www.producthunt.com/stories/10-no-code-tools-every-entrepreneur-should-know)
+- [10 Best No-Code Chatbots Builders](https://yourgpt.ai/blog/general/best-ai-chatbot-builders)
+- [How to Use JavaScript Code in Zapier Zaps](https://zapier.com/help/create/code-webhooks/use-javascript-code-in-zaps)
 
 ---
 
-# Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+## <h2 id="contribute">Contribute 🤗</h2>
 
-# License
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting.
 
-I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.
+## <h2 id="license">License ⚖️</h2>
+
+This project is dedicated to the public domain. You can use, modify, distribute, or do anything else with it.
+
+Licensed under [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Kai Richard König](https://kairichardkoenig.de) has waived all copyright and related or neighboring rights to this work.
